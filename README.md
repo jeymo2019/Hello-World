@@ -4,8 +4,8 @@ Intelligent Mobile Development
  Intended audience – The types of users the app is intended for.
 Project scope – The features needed in the app.
 2. Development Phase:
- Front end - 
- Back - end - 
+ Front end 
+ Back end 
 
 3. Testing:
 
