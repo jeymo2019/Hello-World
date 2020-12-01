@@ -27,6 +27,8 @@
   <strong>-Input Control</strong>
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/DroidcafeInput.png">
 <h3>Week 7. User Interaction</h3><br>
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/UserNavigation.png">
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/RecyclerView.png">
 
 <h3>Week 8. Material Design</h3><br>
 
@@ -35,7 +37,7 @@
 
 
 <h3>Week 10. Notifications</h3><br>
-
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/NotifyMe.png">
 
 <h3>Week 11. Shared Preferences</h3><br>
 
