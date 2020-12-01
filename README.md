@@ -12,7 +12,9 @@
   <img src="https://github.com/jeymo2019/Hello-World/blob/master/The%20layout%20Editor.png">
   
 <h3>Week 4. Activities and intents</h3><br>
-
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities1.png">
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities2.png">
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities3.png">
 
 <h3>Week 5. Implicit Intents</h3><br>
 
