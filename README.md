@@ -4,7 +4,7 @@
 <h3>Assignments</h3>
 <h3>Week 2. Get started </h3><br>
   <strong>-Hello World</strong>
-<img src="https://github.com/jeymo2019/Hello-World/blob/master/Hello%20World.png">
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/Hello-world.png">
 
 <h3>Week 3. Layouts and resources for the UI </h3><br>
   <strong>-First Interactive UI</strong>
