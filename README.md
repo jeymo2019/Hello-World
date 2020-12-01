@@ -12,3 +12,6 @@ Project scope – The features needed in the app.
 4. Launching and Documentations:
 Terms and definitions in the document.
 References – all the external links required or used in the app.
+
+Week 2. Get started
+https://github.com/jeymo2019/Hello-World/blob/master/Hello%20World.png
