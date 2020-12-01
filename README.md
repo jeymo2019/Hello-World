@@ -17,7 +17,8 @@
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities3.png">
 
 <h3>Week 5. Implicit Intents</h3><br>
-
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/implecit-intent.png">
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/implecit-intent1.png">
 
 <h3>Week 6. User Interaction</h3><br>
 
