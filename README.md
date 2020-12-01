@@ -3,12 +3,13 @@
 - My final project details will be here <br>
 <h3>Assignments</h3>
 <h3>Week 2. Get started </h3><br>
-
+  <strong>-Hello World</strong>
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Hello%20World.png">
 
 <h3>Week 3. Layouts and resources for the UI </h3><br>
-  
+  <strong>-First Interactive UI</strong>
   <img src="https://github.com/jeymo2019/Hello-World/blob/master/1.2%20first%20interactive%20UI.png" >
+  <strong>-The Layout Esditor</strong>
   <img src="https://github.com/jeymo2019/Hello-World/blob/master/The%20layout%20Editor.png">
   
 <h3>Week 4. Activities and intents</h3><br>
