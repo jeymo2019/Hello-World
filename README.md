@@ -22,8 +22,10 @@
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/implecit-intent1.png">
 
 <h3>Week 6. User Interaction</h3><br>
-
-
+<strong>-Clickable Images</strong>
+ <img src="https://github.com/jeymo2019/Hello-World/blob/master/Droidcafe.png">
+  <strong>-Input Control</strong>
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/DroidcafeInput.png">
 <h3>Week 7. User Interaction</h3><br>
 
 <h3>Week 8. Material Design</h3><br>
