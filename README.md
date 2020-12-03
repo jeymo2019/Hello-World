@@ -13,7 +13,7 @@
   <img src="https://github.com/jeymo2019/Hello-World/blob/master/Layout-Editor.png">
   
   
-<h3>Week 4. Activities and intents</h3><br>
+<h3><strong>Week 4. Activities and intents</strong></h3><br>
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities1.png">
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities2.png">
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Two-activities3.png">
