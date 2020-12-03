@@ -8,7 +8,7 @@
 
 <h3>Week 3. Layouts and resources for the UI </h3><br>
   <strong>-First Interactive UI</strong>
- 
+ <img src="https://github.com/jeymo2019/Hello-World/blob/master/Hello-Toast.png">
   <strong>-The Layout Esditor</strong>
   
   
@@ -33,7 +33,7 @@
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/RecyclerView.png">
 
 <h3>Week 8. Material Design</h3><br>
-
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/Material-me.png">
 
 <h3>Week 9. Background Tasks</h3><br>
 
@@ -43,4 +43,5 @@
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/NotifyMe.png">
 
 <h3>Week 11. Shared Preferences</h3><br>
+<img src="https://github.com/jeymo2019/Hello-World/blob/master/Shared-preff.png">
 
