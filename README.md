@@ -43,6 +43,6 @@
 <strong>-Notifications</strong>
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/NotifyMe.png">
 
-<strong<h3>Week 11. Shared Preferences</h3></strong<br>
+<strong><h3>Week 11. Shared Preferences</h3></strong><br>
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Shared-preff.png">
 
