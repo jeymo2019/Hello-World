@@ -9,7 +9,8 @@
 <h3>Week 3. Layouts and resources for the UI </h3><br>
   <strong>-First Interactive UI</strong>
  <img src="https://github.com/jeymo2019/Hello-World/blob/master/Hello-Toast.png">
-  <strong>-The Layout Esditor</strong>
+  <strong>-The Layout Editor</strong>
+  <img src="https://github.com/jeymo2019/Hello-World/blob/master/Layout-Editor.png">
   
   
 <h3>Week 4. Activities and intents</h3><br>
