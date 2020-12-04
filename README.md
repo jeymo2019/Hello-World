@@ -37,6 +37,7 @@
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/Material-me.png">
 
 <h3>Week 9. Background Tasks</h3><br>
+<strong>-AsyncTask and AsyncTaskLoader</strong>
 <img src="https://github.com/jeymo2019/Hello-World/blob/master/who-wrote-it.png">
 
 <h3>Week 10. Notifications</h3><br>
