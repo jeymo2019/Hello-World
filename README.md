@@ -1,4 +1,4 @@
-<h3><strong>Intelligent Mobile Development</strong></h3>--<h3><strong>Final Project</strong></h3>
+<h3><strong>Intelligent Mobile Development - Final Project</h3>
 <h3><strong>Introduction</strong></h3>
 The app will be used to insert new students data, view student’s data, update and delete.
 
