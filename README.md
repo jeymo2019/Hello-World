@@ -15,23 +15,23 @@ ii. Android SQLite database
 iii. Android Virtual Device (Emulator)
 
 <h3>Implementation</h3>
-This app consist of the following Activities for User Interface, User Experience and Repository Interaction details
+This app consist of the following Activities for User Interface, User Experience and Repository Interaction details:
 
-activity_main.xml.
+i. activity_main.xml.
 
-MainActivity.java
+ii. MainActivity.java
 
-ViewData.java
+iii. ViewData.java
 
-A StudentModel.java
+iv. A StudentModel.java
 
-StudentAdapter.java
+v. StudentAdapter.java
 
-DatabaseHelper.java
+vi. DatabaseHelper.java
 
-activity_view_data.xml
+vii. activity_view_data.xml
 
-single_student.xml
+viii. single_student.xml
 
 <h3>Testing and Results</h3>
 The result of this project and screenshots is provided in the final Report. Below is the link of the App to access the source code 
