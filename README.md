@@ -11,8 +11,6 @@ i. Android studio
 ii. Android SQLite database 
 iii. Android Virtual Device (Emulator)
 
-<h3>Project Modules</h3>
-
 <h3>Implementation</h3>
 This app consist of the following Activities for User Interface, User Experience and Repository Interaction details
 activity_main.xml.
