@@ -14,10 +14,21 @@ iii. Android Virtual Device (Emulator)
 
 <h3>Project Modules</h3>
 
+<h3>Implementation</h3>
+This app consist of the following Activities for User Interface, User Experience and Repository Interaction details
+activity_main.xml.
+MainActivity.java
+ViewData.java
+A StudentModel.java
+StudentAdapter.java
+DatabaseHelper.java
+activity_view_data.xml
+single_student.xml
 
-<h3></h3>
- <br>
+<h3>Testing and Results</h3>
+The result of this project and screenshots is provided in the final Report. Below is the link of the App to access the source code 
 <a href="https://github.com/jeymo2019/Hello-World/blob/master/Myfinalproject/">My Final project Source Code</a>
+
 
 <h3>Assignments</h3>
 <a href="https://github.com/jeymo2019/Hello-World/blob/master/Assignments.md" > Assignments</a>
